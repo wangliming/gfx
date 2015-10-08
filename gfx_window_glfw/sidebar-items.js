@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["init","Initialize with a window."]],"struct":[["Output","A wrapper around the window that implements `Output`."]],"type":[["Success","Result of successful context initialization."]]});
